@@ -1,0 +1,35 @@
+.placar {
+    float: left;
+    width: auto;
+    height: 500px;
+    background: #FFF;
+    border: 1px solid #a2a2a2;
+    margin-right: 5px;
+}
+
+.cronometro {
+    height: 132px;
+    width: 140px;
+    text-align: center;
+}
+
+#cenario {
+    width: 600px;
+    height: 500px;
+    float: left;
+    background: url(imagens/cenario.png);
+    background-position: bottom;
+}
+
+#tempoSegundo {
+    color: red;
+    font-size: 30px;
+}
+
+#baloes_inteiros {
+    font-size: 40px;
+}
+
+#baloes_estourados {
+    font-size: 40px;
+}
